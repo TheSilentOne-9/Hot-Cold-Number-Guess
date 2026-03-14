@@ -1,0 +1,14 @@
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\bin\Debug\net10.0\Hot-Cold Number Guess.exe
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\bin\Debug\net10.0\Hot-Cold Number Guess.deps.json
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\bin\Debug\net10.0\Hot-Cold Number Guess.runtimeconfig.json
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\bin\Debug\net10.0\Hot-Cold Number Guess.dll
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\bin\Debug\net10.0\Hot-Cold Number Guess.pdb
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.AssemblyInfoInputs.cache
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.AssemblyInfo.cs
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.dll
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\refint\Hot-Cold Number Guess.dll
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.pdb
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\Hot-Cold Number Guess.genruntimeconfig.cache
+C:\Users\EREN\Desktop\games\Hot-Cold Number Guess\Hot-Cold Number Guess\obj\Debug\net10.0\ref\Hot-Cold Number Guess.dll
